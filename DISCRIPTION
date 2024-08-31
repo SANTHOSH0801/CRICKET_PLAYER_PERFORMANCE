@@ -1,0 +1,10 @@
+Cricket Player Performance Analysis:
+
+  This project analyzes the performance of cricket players across different formats (Test, ODI, T20I, IPL) by calculating their batting and bowling percentages out of 100%. The performance metrics are computed using weighted averages of key statistics such as batting average, strike rate, centuries for batting, and economy rate, and wickets for bowling. The project is implemented using Python and Pandas, providing a detailed comparison of players' performance in various formats.
+
+    Features:
+     . Batting Performance Calculation: Computes batting performance based on average, strike rate, and centuries.
+     . Bowling Performance Calculation: Computes bowling performance based on economy rate and wickets taken.
+     . Normalization: Batting and bowling performances are normalized to a 100% scale, allowing for a fair comparison across different formats.
+     . Format-based Analysis: The analysis is broken down by cricket formats, including Test, ODI, T20I, and IPL.
+     . Customizable Weighting: The performance calculations are based on customizable weightings for each statistic, making the tool adaptable for different analysis needs.
